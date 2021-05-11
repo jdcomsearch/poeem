@@ -1,0 +1,2 @@
+include src/ops/bin/*.so
+include src/ops/cpp/*
