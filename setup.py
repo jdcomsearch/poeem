@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="poeem",
-    version="0.8",
+    version="0.9",
     description="A library for jointly training embedding retrieval model and product quantization based index",
     long_description=README,
     long_description_content_type="text/markdown",
