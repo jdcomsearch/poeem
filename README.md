@@ -59,7 +59,7 @@ Experienced or advanced users who are interested in applying it in real-world or
 
 The main authors of Poeem are:
 
-- [Han Zhang]() wrote most Python models and conducted most of experiments.
+- [Han Zhang](https://lonway.github.io/) wrote most Python models and conducted most of experiments.
 - [Hongwei Shen](https://www.linkedin.com/in/hongwei-shen-27171a32/) wrote most of the C++ TensorFlow ops and managed the pip released package.
 - [Yunjiang Jiang](https://www.linkedin.com/in/yunjiang-jiang-1ba96071/) developed the rotation algorithm and wrote the related code.
 - [Wen-Yun Yang](https://www.linkedin.com/in/wen-yun-yang-31b48740/) initiated the Poeem project, wrote some of TensorFlow ops, integrated different parts and wrote the tutorials.
